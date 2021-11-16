@@ -1,3 +1,5 @@
+# 解决了横屏时报错的问题
+解决方法：依赖的postcss将版本固定到了7.0.32
 # postcss-px-to-viewport
 [![NPM version](https://badge.fury.io/js/postcss-px-to-viewport.svg)](http://badge.fury.io/js/postcss-px-to-viewport)
 
